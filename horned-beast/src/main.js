@@ -23,6 +23,7 @@ const animalArray = [{
   }];
 
 function Main() {
+    // TA, Micheal Eclavia helped with the .map method and my understanding of it
     const beastArray = animalArray.map(item => {
         return (
             <HornedBeast title={item.title} imageUrl={item.image_url} description={item.description} horns={item.horns} keyword={item.keyword} />

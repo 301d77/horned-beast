@@ -13,4 +13,4 @@
 <!-- Any Links you used as reference -->
 
 ### Reflections and Comments
-* Working with Abdi was fun. It went very smoothly. Not problems pushing or pulling from GitHub.
+* TA, Micheal Eclavia helped with the .map method within App.js and my understanding of it.
